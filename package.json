@@ -1,0 +1,17 @@
+{
+  "name": "ts-sample",
+  "version": "1.0.0",
+  "description": "demo con TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@diegoandresmarmota",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.13.0",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  }
+}
